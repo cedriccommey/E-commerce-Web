@@ -1,8 +1,8 @@
 ## Install Instruction
 
 ### `Login Credentials  `
-email: admin@demo.com<br/>
-password: 12345678<br/> 
+email: felix20@gmail.com  or cedric20@gmail.com or afreh20@gmail.com<br/>
+password: 123456789<br/> 
 
 ### `Front-End setup`
 
